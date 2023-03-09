@@ -5,7 +5,7 @@ adipisicing. Anim id ullamco quis mollit amet. Ea ullamco minim veniam qui
 nostrud eiusmod occaecat amet amet minim.
 
 Aliquip mollit velit ad aliqua enim non duis in aute. Ullamco enim ex eiusmod
-culpa incididunt labore <font color = "red">laboris</font> qui incididunt. Et Lorem commodo do dolor
+culpa incididunt labore <font color="red">laboris</font> qui incididunt. Et Lorem commodo do dolor
 labore ex.
 
 Aute commodo non aliqua culpa aliquip anim dolore. **Aliquip** quis officia
